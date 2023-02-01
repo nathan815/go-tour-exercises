@@ -1,5 +1,7 @@
 # Go Tour Exercises
 
+https://go.dev/tour
+
 ## Picture Exercises
 
 ```
