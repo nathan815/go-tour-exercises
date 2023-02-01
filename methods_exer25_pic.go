@@ -3,6 +3,7 @@ package main
 import (
 	"image"
 	"image/color"
+
 	"golang.org/x/tour/pic"
 )
 
